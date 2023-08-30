@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+.card{width:250px ;
+margin: 50px;
+    width: 250px;
+   
+    background-color: rgb(246, 179, 179);
+    box-shadow: 5px 5px 5px 5px rgb(204, 154, 154);
+
+}
+.card img {
+    width: 100%;
+    height: 220px;
+   
+}
+.card-info{
+padding: 30px;
+}
+.card-info h1{
+    font-size: 25px;
+    color: rgb(40, 28, 209);
+}
+ul li{
+    list-style: none;
+    color: rgb(47, 54, 54);
+}
+a{
+    text-decoration: none;
+    color: #ff0000;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;
+    background-color: rgb(137, 230, 199);
+    box-shadow: 1px 1px 2px 1px rgb(95, 92, 92) ;
+}
